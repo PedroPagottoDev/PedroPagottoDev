@@ -1,6 +1,6 @@
 # Olá! Eu sou o Pedro Pagotto 👋
 
-🚀 Desenvolvedor front-end com 11 anos de idade  
+🚀 Desenvolvedor front-end com 12 anos de idade  
 📚 Aprendendo HTML, CSS, GoLang e Git  
 📍 Piracicaba, SP  
 📫 pepagotto01@gmail.com  
