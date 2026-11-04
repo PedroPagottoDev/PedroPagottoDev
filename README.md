@@ -52,7 +52,7 @@ func main() {
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPagottoDev&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -60,7 +60,7 @@ func main() {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/PedroPagottoDev/PedroPagottoDev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 
 </div>
 
@@ -68,7 +68,7 @@ func main() {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroPagottoDev)
 
 </div>
 
