@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="pepe 12 the coder" width="100%"/>
+  <img src="domwload.jpg" alt="pepe 12 the coder" width="100%"/>
 </div>
 
 ### about
 
-12-year-old backend developer. I build web servers and APIs with **Go** and **Echo**, store data in **PostgreSQL**, and make things look good with **HTML** and **CSS**. I ship my code with **Git**, and I'm learning something new every day.
+12y backend developer. I build web servers and APIs with **Go** and **Echo**, store data in **PostgreSQL**, and make things look good with **HTML** and **CSS**. I ship my code with **Git**, and I'm learning something new every day.
 
 ---
 
