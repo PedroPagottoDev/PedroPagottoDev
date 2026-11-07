@@ -30,7 +30,7 @@
 
 #### [Api-rest-go](https://github.com/PedroPagottoDev/api-tarefas-go)
 
-*Go · Echo · PostgreSQL*
+*Go · Echo 
 
 One sentence about what this project does.
 
