@@ -35,8 +35,6 @@
 One sentence about what this project does.
 
 - What it does or what you learned building it
-- Another cool detail
-- Another cool detail
 
 ---
 
